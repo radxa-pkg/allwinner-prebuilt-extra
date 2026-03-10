@@ -1,3 +1,16 @@
+allwinner-prebuilt-extra (0.1.8) unstable; urgency=medium
+
+  [ dependabot[bot] ]
+  * build(deps): bump actions/checkout from 5 to 6
+  * build(deps): bump actions/upload-artifact from 4 to 6
+  * build(deps): bump actions/upload-artifact from 6 to 7
+  * build(deps): bump docker/setup-qemu-action from 3 to 4
+
+  [ Feng Zhang ]
+  * Fix: Update Allwinner camera effect file
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Tue, 10 Mar 2026 07:06:11 +0000
+
 allwinner-prebuilt-extra (0.1.7) unstable; urgency=medium
 
   [ Jiali Chen ]
