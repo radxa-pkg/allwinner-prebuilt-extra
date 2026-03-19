@@ -1,3 +1,10 @@
+allwinner-prebuilt-extra (0.1.9) unstable; urgency=medium
+
+  [ CodeChenL ]
+  * chore: pkg.conf: add trixie support
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Thu, 19 Mar 2026 11:24:34 +0000
+
 allwinner-prebuilt-extra (0.1.8) unstable; urgency=medium
 
   [ dependabot[bot] ]
