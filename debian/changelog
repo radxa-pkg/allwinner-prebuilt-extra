@@ -1,3 +1,10 @@
+allwinner-prebuilt-extra (0.1.11) unstable; urgency=medium
+
+  [ Feng Zhang ]
+  * chore: update libAWIspApi deb for debian13
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Fri, 12 Jun 2026 06:33:02 +0000
+
 allwinner-prebuilt-extra (0.1.10) unstable; urgency=medium
 
   [ Jiali Chen ]
