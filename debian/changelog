@@ -1,3 +1,10 @@
+allwinner-prebuilt-extra (0.1.12) unstable; urgency=medium
+
+  [ Feng Zhang ]
+  * build: remove the legacy ISP602 prebuilt package
+
+ -- "Radxa Computer (Shenzhen) Co., Ltd." <dev@radxa.com>  Tue, 03 Nov 2026 04:07:24 +0000
+
 allwinner-prebuilt-extra (0.1.11) unstable; urgency=medium
 
   [ Feng Zhang ]
